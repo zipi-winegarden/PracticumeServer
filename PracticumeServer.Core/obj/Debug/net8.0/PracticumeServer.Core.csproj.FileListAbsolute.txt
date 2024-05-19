@@ -1,0 +1,13 @@
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\bin\Debug\net8.0\PracticumeServer.Core.deps.json
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\bin\Debug\net8.0\PracticumeServer.Core.dll
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\bin\Debug\net8.0\PracticumeServer.Core.pdb
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\obj\Debug\net8.0\PracticumeServer.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\obj\Debug\net8.0\PracticumeServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\obj\Debug\net8.0\PracticumeServer.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\obj\Debug\net8.0\PracticumeServer.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\obj\Debug\net8.0\PracticumeServer.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\obj\Debug\net8.0\PracticumeServer.Core.sourcelink.json
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\obj\Debug\net8.0\PracticumeServer.Core.dll
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\obj\Debug\net8.0\refint\PracticumeServer.Core.dll
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\obj\Debug\net8.0\PracticumeServer.Core.pdb
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Core\obj\Debug\net8.0\ref\PracticumeServer.Core.dll

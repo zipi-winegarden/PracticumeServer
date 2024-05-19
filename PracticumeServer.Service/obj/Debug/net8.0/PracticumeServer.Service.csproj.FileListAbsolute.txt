@@ -1,0 +1,16 @@
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\bin\Debug\net8.0\PracticumeServer.Service.deps.json
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\bin\Debug\net8.0\PracticumeServer.Service.dll
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\bin\Debug\net8.0\PracticumeServer.Service.pdb
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\bin\Debug\net8.0\PracticumeServer.Core.dll
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\bin\Debug\net8.0\PracticumeServer.Core.pdb
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\PracticumeServer.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\PracticumeServer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\PracticumeServer.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\PracticumeServer.Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\PracticumeServer.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\PracticumeServer.Service.sourcelink.json
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\Practicu.14C77EE8.Up2Date
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\PracticumeServer.Service.dll
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\refint\PracticumeServer.Service.dll
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\PracticumeServer.Service.pdb
+C:\Users\user1\Desktop\PracticumeServer\PracticumeServer.Service\obj\Debug\net8.0\ref\PracticumeServer.Service.dll
